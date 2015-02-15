@@ -191,7 +191,7 @@ The following is a list of all of the challenges used for the 2014 CTF along wit
   </tr>
 </table>
 
- ### Grab Bag
+### Grab Bag
 
  <table>
   <tr>
